@@ -1,0 +1,5 @@
+# API for parsechat package
+
+## Exported functions
+
+parse_whatsapp(path = "raw_data/_chat_example")
